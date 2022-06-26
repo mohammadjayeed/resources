@@ -13,3 +13,6 @@
 ### Updates were rejected because the remote contains work that you do not have locally
 
 [stackoverflow link](https://stackoverflow.com/questions/24357108/updates-were-rejected-because-the-remote-contains-work-that-you-do-not-have-loca)
+
+### No Such Table
+[stackoverflow link](https://stackoverflow.com/questions/25771755/django-operationalerror-no-such-table)
