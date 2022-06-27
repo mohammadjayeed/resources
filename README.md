@@ -16,3 +16,7 @@
 
 ### No Such Table
 [stackoverflow link](https://stackoverflow.com/questions/25771755/django-operationalerror-no-such-table)
+
+### custom token serializere mod
+
+[stackoverflow link](https://stackoverflow.com/questions/53480770/how-to-return-custom-data-with-access-and-refresh-tokens-to-identify-users-in-dj)
