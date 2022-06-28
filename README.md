@@ -1,4 +1,4 @@
-﻿# dayum_i_troubleshooted
+# dayum_i_troubleshooted
 
 ### ! [rejected] master -> master (fetch first)
 
@@ -20,3 +20,11 @@
 ### custom token serializer mod
 
 [stackoverflow link](https://stackoverflow.com/questions/53480770/how-to-return-custom-data-with-access-and-refresh-tokens-to-identify-users-in-dj)
+
+
+git push origin +sha:branch
+git push origin +be21214:master   + means force
+https://stackoverflow.com/questions/448919/how-can-i-remove-a-commit-on-github
+
+git rebase be21214 --autostash
+https://stackoverflow.com/questions/21358872/git-cannot-rebase-because-of-uncommitted-changes
