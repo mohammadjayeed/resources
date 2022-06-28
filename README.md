@@ -32,3 +32,7 @@
 
 ### .gitignore
 [stackoverflow link](https://stackoverflow.com/questions/56309100/how-to-ignore-the-same-name-directory-pycache-in-a-project)
+
+### git cherry-pick
+
+[stackoverflow](https://stackoverflow.com/questions/41261474/how-to-delete-a-only-a-specific-commit-in-the-middle-of-the-git-log)
