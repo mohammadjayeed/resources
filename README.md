@@ -22,10 +22,13 @@
 [stackoverflow link](https://stackoverflow.com/questions/53480770/how-to-return-custom-data-with-access-and-refresh-tokens-to-identify-users-in-dj)
 
 
-#### git push origin +sha:branch
-#### git push origin +be21214:master   + means force
+### git push origin +sha:branch
+### git push origin +be21214:master   + means force
 [stackoverflow link](https://stackoverflow.com/questions/448919/how-can-i-remove-a-commit-on-github)
 
-#### git rebase be21214 --autostash
+### git rebase be21214 --autostash
 
 [stackoverflow link](https://stackoverflow.com/questions/21358872/git-cannot-rebase-because-of-uncommitted-changes)
+
+### .gitignore
+[stackoverflow link](https://stackoverflow.com/questions/56309100/how-to-ignore-the-same-name-directory-pycache-in-a-project)
