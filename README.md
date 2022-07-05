@@ -36,3 +36,8 @@
 ### git cherry-pick
 
 [stackoverflow](https://stackoverflow.com/questions/41261474/how-to-delete-a-only-a-specific-commit-in-the-middle-of-the-git-log)
+
+
+### bootstrap modal submit issue
+
+[stackoverflow](https://stackoverflow.com/questions/31686089/form-submit-button-not-working-in-bootstrap-modal-window)
