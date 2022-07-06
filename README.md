@@ -41,3 +41,6 @@
 ### bootstrap modal submit issue : solution by Mofaggol
 
 [stackoverflow](https://stackoverflow.com/questions/31686089/form-submit-button-not-working-in-bootstrap-modal-window)
+
+## redirect to current page after applying pagination : solution by viktor
+[stack](https://stackoverflow.com/questions/27325505/django-getting-previous-url)
