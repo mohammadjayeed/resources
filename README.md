@@ -60,4 +60,4 @@
 
 ### checking validation in user creation form
 
-[stack] (https://stackoverflow.com/questions/55969952/how-can-i-avoid-a-user-from-registering-an-already-used-email-in-django)
+[stack](https://stackoverflow.com/questions/55969952/how-can-i-avoid-a-user-from-registering-an-already-used-email-in-django)
