@@ -46,7 +46,7 @@
 [stack](https://stackoverflow.com/questions/27325505/django-getting-previous-url)
 
 ### script timeout function
-
+[stack](https://stackoverflow.com/questions/67854364/how-to-clear-a-validation-error-in-django) : solution by shelvington
 ```
 <script>
   setTimeout(function() {
