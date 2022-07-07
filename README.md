@@ -44,3 +44,16 @@
 
 ### redirect to current page after applying pagination : solution by viktor
 [stack](https://stackoverflow.com/questions/27325505/django-getting-previous-url)
+
+### script timeout function
+
+```
+<script>
+  setTimeout(function() {
+    let errors = document.getElementsByClassName('errorlist');
+    while(errors.length > 0) {
+      errors[0].parentNode.removeChild(errors[0]);
+    }
+  }, 3000);
+</script>
+```
