@@ -61,3 +61,7 @@
 ### checking validation in user creation form
 
 [stack](https://stackoverflow.com/questions/55969952/how-can-i-avoid-a-user-from-registering-an-already-used-email-in-django)
+
+### adding svg in table
+
+[stack](https://stackoverflow.com/questions/21580527/svg-in-table-chrome-firefox-ie)
