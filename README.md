@@ -65,3 +65,7 @@
 ### adding svg in table
 
 [stack](https://stackoverflow.com/questions/21580527/svg-in-table-chrome-firefox-ie)
+
+### change remote origin url
+
+[stack](https://stackoverflow.com/questions/2432764/how-to-change-the-uri-url-for-a-remote-git-repository)
