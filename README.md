@@ -72,4 +72,4 @@
 
 ## Important Note on using Django Forms properly : solution by Alioguzhan
 
-[stack] (https://stackoverflow.com/questions/37264511/django-forms-returns-error-about-errorlist-when-validating)
+[stack](https://stackoverflow.com/questions/37264511/django-forms-returns-error-about-errorlist-when-validating)
