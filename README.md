@@ -1,4 +1,4 @@
-# dayum_i_troubleshooted
+# dayum_I_troubleshooted
 
 ### ! [rejected] master -> master (fetch first)
 
@@ -73,3 +73,8 @@
 ## Important Note on using Django Forms properly : solution by Alioguzhan
 
 [stack](https://stackoverflow.com/questions/37264511/django-forms-returns-error-about-errorlist-when-validating)
+
+
+## automatic IP detection
+
+[stack](https://stackoverflow.com/questions/4581789/how-do-i-get-user-ip-address-in-django)
