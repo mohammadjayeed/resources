@@ -69,3 +69,7 @@
 ### change remote origin url
 
 [stack](https://stackoverflow.com/questions/2432764/how-to-change-the-uri-url-for-a-remote-git-repository)
+
+## Important Note on using Django Forms properly : solution by Alioguzhan
+
+[stack] (https://stackoverflow.com/questions/37264511/django-forms-returns-error-about-errorlist-when-validating)
