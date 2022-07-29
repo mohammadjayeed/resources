@@ -80,6 +80,6 @@
 [stack](https://stackoverflow.com/questions/4581789/how-do-i-get-user-ip-address-in-django)
 
 
-## windows SQL PATH solution by khaled mohamed
+## windows SQL PATH solution by khaled mohamed, abubakr elghazawy
 
 [stack](https://stackoverflow.com/questions/5920136/mysql-is-not-recognised-as-an-internal-or-external-command-operable-program-or-b)
