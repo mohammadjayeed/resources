@@ -83,3 +83,26 @@
 ## windows SQL PATH solution by khaled mohamed, abubakr elghazawy
 
 [stack](https://stackoverflow.com/questions/5920136/mysql-is-not-recognised-as-an-internal-or-external-command-operable-program-or-b)
+
+## docker zorin installation instruction
+
+- sudo apt update
+
+- sudo apt install ca-certificates
+
+- sudo apt install curl
+
+- sudo apt install gnupg
+
+- curl -fsSL https://download.docker.com/linux/ubuntu/gpg | sudo gpg --dearmor -o /usr/share/keyrings/docker-archive-keyring.gpg
+
+- echo "deb [arch=$(dpkg --print-architecture) signed-by=/usr/share/keyrings/docker-archive-keyring.gpg] https://download.docker.com/linux/ubuntu \
+$(lsb_release -cs) stable" | sudo tee /etc/apt/sources.list.d/docker.list > /dev/null
+
+- sudo apt update
+
+- sudo apt-get install docker-ce docker-ce-cli containerd.io
+
+- https://www.youtube.com/watch?v=NEyXDdBrw2c
+
+- sudo gpasswd -a $USER docker
