@@ -106,3 +106,6 @@ $(lsb_release -cs) stable" | sudo tee /etc/apt/sources.list.d/docker.list > /dev
 - https://www.youtube.com/watch?v=NEyXDdBrw2c
 
 - sudo gpasswd -a $USER docker
+
+## Prefetch related issue django
+[stack](https://stackoverflow.com/questions/71152626/django-how-to-print-the-value-from-a-class-in-the-prefetch-related-class-whic)
