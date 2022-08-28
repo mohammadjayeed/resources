@@ -109,3 +109,6 @@ $(lsb_release -cs) stable" | sudo tee /etc/apt/sources.list.d/docker.list > /dev
 
 ## Prefetch related issue django
 [stack](https://stackoverflow.com/questions/71152626/django-how-to-print-the-value-from-a-class-in-the-prefetch-related-class-whic)
+
+## annotation vs aggregation __ reading material : answer by vinay kumar
+[stack](https://stackoverflow.com/questions/7981837/difference-between-djangos-annotate-and-aggregate-methods)
