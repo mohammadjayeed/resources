@@ -114,7 +114,7 @@ $(lsb_release -cs) stable" | sudo tee /etc/apt/sources.list.d/docker.list > /dev
 [stack](https://stackoverflow.com/questions/7981837/difference-between-djangos-annotate-and-aggregate-methods)
 
 ## debug flag problem in production server (django)
-[stack] (https://stackoverflow.com/questions/38617046/django-debug-false-still-runs-in-debug-mode)
+[stack](https://stackoverflow.com/questions/38617046/django-debug-false-still-runs-in-debug-mode)
 
 ## wsgi daemon issue NAME DUPLICATES
-[git] (https://github.com/certbot/certbot/issues/4880)
+[git](https://github.com/certbot/certbot/issues/4880)
