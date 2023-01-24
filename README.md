@@ -119,5 +119,5 @@ $(lsb_release -cs) stable" | sudo tee /etc/apt/sources.list.d/docker.list > /dev
 ## wsgi daemon issue NAME DUPLICATES
 [git](https://github.com/certbot/certbot/issues/4880)
 
-## copying files from ec2 instance
-[git](https://stackoverflow.com/questions/29249562/permission-denied-public-key-while-copying-folder-file-from-local-machine-to-aws)
+## copying files from ec2 instance : answer by kenster
+[stack](https://stackoverflow.com/questions/29249562/permission-denied-public-key-while-copying-folder-file-from-local-machine-to-aws)
