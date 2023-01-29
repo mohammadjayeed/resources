@@ -121,3 +121,6 @@ $(lsb_release -cs) stable" | sudo tee /etc/apt/sources.list.d/docker.list > /dev
 
 ## copying files from ec2 instance : answer by kenster
 [stack](https://stackoverflow.com/questions/29249562/permission-denied-public-key-while-copying-folder-file-from-local-machine-to-aws)
+
+## django permission related issue - ans by bogdan
+[stack] (https://stackoverflow.com/questions/31370333/custom-django-user-object-has-no-attribute-has-module-perms)
