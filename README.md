@@ -124,3 +124,7 @@ $(lsb_release -cs) stable" | sudo tee /etc/apt/sources.list.d/docker.list > /dev
 
 ## django permission related issue - ans by bogdan
 [stack] (https://stackoverflow.com/questions/31370333/custom-django-user-object-has-no-attribute-has-module-perms)
+
+
+## django crontab - ans by EDG956
+[stack] (https://stackoverflow.com/questions/65966607/django-crontab-not-working-on-production-docker)
