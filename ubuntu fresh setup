@@ -1,0 +1,24 @@
+docker installation links:
+
+	https://daylifetips.com/how-to-install-docker-ce-on-zorin-os/
+
+pyenv:
+
+	https://k0nze.dev/posts/install-pyenv-venv-vscode/
+	
+mysqlclient pre-requisite command before installing into local dev environment:
+
+	sudo apt-get install python3-dev default-libmysqlclient-dev build-essential
+	
+	links:
+	https://forum.codewithmosh.com/t/error-when-installing-mysqlclient/13665
+	
+mysql server setup and troubleshooting links:
+
+	https://www.digitalocean.com/community/tutorials/how-to-install-mysql-on-ubuntu-20-04
+	https://stackoverflow.com/questions/36301100/how-do-i-turn-off-the-mysql-password-validation
+	(reset validate password)
+	
+	https://stackoverflow.com/questions/62231627/access-denied-for-user-rootlocalhost-in-dbeaver
+	(issue regarding dbeaver)
+	
